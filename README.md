@@ -1,4 +1,4 @@
-# span_ner_for_torch
+# SpanNER
 ## 一、说明
 1、本实验为使用指针网络实现
 
